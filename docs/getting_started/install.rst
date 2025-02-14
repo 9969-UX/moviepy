@@ -1,4 +1,5 @@
-.. _install:
+.. _install:pip install moviepy
+
 
 Installation
 ==========================
